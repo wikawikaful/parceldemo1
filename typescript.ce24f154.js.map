@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAAA,IAAM,EAAY,wBAClB,SAAS,KAAK,mBAAmB,aAAc","file":"typescript.ce24f154.js","sourceRoot":"..","sourcesContent":["const s: string = 'Привет, пользователь!';\ndocument.body.insertAdjacentHTML('afterbegin', s);"]}
